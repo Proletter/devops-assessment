@@ -1,8 +1,8 @@
 Devops interview questions
 
 Kubernetes
-- create a k8s pod using nginx, expose it and make it accessible from the public internet.
-- Ensure
+- create a k8s deployment using nginx, 3 replicas, expose it and make it accessible from the public internet.
+- use
 https://labs.iximiuz.com/playgrounds/k3s-bare
 - What is a storageclass?
 - What other ways can you create pods without using the API server?
